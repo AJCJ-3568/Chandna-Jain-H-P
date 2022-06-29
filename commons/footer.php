@@ -19,7 +19,7 @@
         <div class="container py-5">
             <div class="row py-4">
                 <div class="col-lg-4 col-md-6 mb-4 mb-lg-0"><img src="img/logo.png" alt="" width="180" class="mb-3">
-                    <p class="font-italic text-muted"> We provide the best-in-class service </p>
+                    <p class="font-italic text-muted"> follow me on </p>
                     <ul class="list-inline mt-4">
                         <li class="list-inline-item"><a href="https://twitter.com/@chandanJainCJ2" title="twitter"><i class="fa fa-twitter"></i></a></li>
                         <li class="list-inline-item"><a href="https://www.facebook.com/chandanjain.cj.3" title="facebook"><i class="fa fa-facebook"></i></a></li>
@@ -43,7 +43,7 @@
 
                     </ul>
                 </div>
-                <div class="col-lg-4 col-md-6 mb-lg-0">
+                <!-- <div class="col-lg-4 col-md-6 mb-lg-0">
                     <h6 class="text-uppercase font-weight-bold mb-4">Newsletter</h6>
                     <p class="text-muted mb-4"></p>
                     <div class="p-1 rounded border">
@@ -52,7 +52,7 @@
                             <div class="input-group-append">
                                 <button id="button-addon1" type="submit" class="btn btn-link"><i class="fa fa-paper-plane"></i></button>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
