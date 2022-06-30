@@ -50,7 +50,7 @@
                         <div class="input-group">
                             <input type="email" placeholder="Enter your email address" aria-describedby="button-addon1" class="form-control border-0 shadow-0">
                             <div class="input-group-append">
-                                <button id="button-addon1" type="submit" class="btn btn-link"><i class="fa fa-paper-plane"></i></button>
+                            <button id="button-addon1" type="submit" class="btn btn-link"><i class="fa fa-paper-plane"></i></button>
                             </div>
                         </div> -->
                     </div>

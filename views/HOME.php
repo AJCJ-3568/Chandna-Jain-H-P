@@ -25,7 +25,7 @@
         </div>
         <div class='row'>
           <div class=' col-6'>
-            <h3 class=''> I'm a designer and full stack web developer 🧑‍💻
+            <h3 class='content'> I'm a designer and full stack web developer 🧑‍💻
               built attractive digital experience website,
               I designer cool stuff for the web </h3>
           </div>
