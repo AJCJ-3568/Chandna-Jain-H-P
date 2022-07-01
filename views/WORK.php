@@ -14,13 +14,8 @@
     ?>
     <div class="container">
         <h1 class="display-1 m-5 p-5">
-
             coming soon
-
         </h1>
-
-
-
     </div>
     <?php require_once("../commons/footer.php")
     ?>
