@@ -33,7 +33,7 @@
               I Designs cool stuff for the web </h3>
           </div>
           <div class='col-sm-6'>
-            <img class="cjImg rounded float-left img-responsive col-sm-8" style="width:100%;  height: auto;" src="./assets/img/cjwebsite.webp" alt="CJ" />
+            <img class="cjImg rounded float-left img-responsive " style="width:100%;  height: auto;" src="./assets/img/cjwebsite.webp" alt="CJ" />
           </div>
 
         </div>
