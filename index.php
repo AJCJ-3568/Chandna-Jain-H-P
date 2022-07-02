@@ -22,12 +22,12 @@
       <div>
         <div class='row '>
           <div class=' col-sm-12'>
-            <h1 class='cont-h1 m-5 col-sm-12' style="font-size:5vw;">Hey friends! </h1>
+            <h1 class=' m-5 col-sm-12 ' style="font-size:5vw;">Hey friends! </h1>
           </div>
         </div>
         <div class='row'>
           <div class='  col-sm-6'>
-            <h3 class='content ' style="font-size:3vw;">
+            <h3 class='content ' style="font-size:2vw;">
               I'm a designer and full stack web developer 🧑‍💻
               built attractive digital experience website,
               I Designs cool stuff for the web </h3>

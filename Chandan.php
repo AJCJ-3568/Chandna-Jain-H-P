@@ -21,7 +21,7 @@
         <h1 class="text-uppercase m-5" style="font-size:4vw;">about me </h1>
         <div class="row   m-5">
             <div class="col-lg-6  col-sm-12">
-                <img class="cjImg rounded img-responsive col-sm-12" style="width:100%;  height: auto;" src="./assets/img/cj2.png" alt="CJ" />
+                <img class="cjImg rounded img-responsive " style="width:100%;  height: auto;" src="./assets/img/cj2.png" alt="CJ" />
             </div>
             <div class="col-lg-6 col-sm-12 ">
                 <div style="font-size:2vw;" word-wrap="normal;">

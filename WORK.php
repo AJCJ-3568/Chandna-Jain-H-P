@@ -17,7 +17,7 @@
     <?php require_once("./commons/navigation.php")
     ?>
     <div class="container">
-        <h1 class="display-1 m-5 p-5  " style=" font-size:5vw;">
+        <h1 class="display-1 m-5 p-5 text-center  " style=" font-size:5vw;">
             coming soon
         </h1>
     </div>
