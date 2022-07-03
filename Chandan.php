@@ -18,22 +18,26 @@
     ?>
 
     <div class="container">
-        <h1 class="text-uppercase m-5" style="font-size:4vw;">about me </h1>
-        <div class="row   m-5">
-            <div class="col-lg-6  col-sm-12">
-                <img class="cjImg rounded img-responsive " style="width:100%;  height: auto;" src="./assets/img/cj2.png" alt="CJ" />
-            </div>
-            <div class="col-lg-6 col-sm-12 ">
-                <div style="font-size:2vw;" word-wrap="normal;">
-                    <p> Chandan Jain H P <br>
-                        11/06/2002
-                        <br>
-                        7975703568
-                        <br>
-                        3rd Cross <br>
-                        Behind B G S School
-                        Vidyanagara Hassan Vidyanagar (hassan),Alur,Hassan 573201
-                    </p>
+        <div class="m-5">
+            <div class="row ">
+                <div class="col-lg-6  col-sm-12">
+                    <h1>about me </h1>
+                </div>
+                <div class="row">
+                    <div class=" col-lg-6 col-sm-12">
+                        <img class=" img-responsive " style="width:90%; height: auto; " src=" ./assets/img/cj2.png" alt="CJ" />
+                    </div>
+                    <div class="col-lg-6 col-sm-12 ">
+                        <h4> Chandan Jain H P <br>
+                            11/06/2002
+                            <br>
+                            7975703568
+                            <br>
+                            3rd Cross <br>
+                            Behind B G S School
+                            Vidyanagara Hassan Vidyanagar (hassan),Alur,Hassan 573201
+                        </h4>
+                    </div>
                 </div>
             </div>
         </div>

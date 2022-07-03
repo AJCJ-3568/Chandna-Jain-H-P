@@ -18,27 +18,27 @@
   <div>
     <?php require_once("./commons/navigation.php")
     ?>
-    <div class='container'>
-      <div>
+    <div class='container '>
+      <div class="m-5">
         <div class='row '>
-          <div class=' col-sm-12'>
-            <h1 class=' m-5 col-sm-12 ' style="font-size:5vw;">Hey friends! </h1>
-          </div>
-        </div>
-        <div class='row'>
-          <div class='  col-sm-6'>
-            <h3 class='content ' style="font-size:2vw;">
-              I'm a designer and full stack web developer 🧑‍💻
-              built attractive digital experience website,
-              I Designs cool stuff for the web </h3>
-          </div>
-          <div class='col-sm-6'>
-            <img class="cjImg rounded float-left img-responsive " style="width:100%;  height: auto;" src="./assets/img/cjwebsite.webp" alt="CJ" />
-          </div>
+          <div class='row'>
+            <div class='  col-sm-6 col-lg-6 '>
+              <h1>Hey friends! </h1>
+              <h3>
+                I'm a designer and full stack web developer 🧑‍💻
+                built attractive digital experience website,
+                I Designs cool stuff for the web
+              </h3>
+            </div>
+            <div class='col-sm-6 col-lg-6 '>
+              <img class="float-left img-responsive " style="width:100%;  height: auto;" src="./assets/img/cjwebsite.webp" alt="CJ" />
 
+            </div>
+          </div>
         </div>
-        <?php require_once("./commons/footer.php")
-        ?>
+      </div>
+      <?php require_once("./commons/footer.php")
+      ?>
 </body>
 
 </html>
